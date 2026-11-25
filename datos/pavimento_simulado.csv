@@ -1,0 +1,61 @@
+﻿tramo,fecha,antiguedad,transito,patologia,severidad,pci,origen
+TR-001,2025-06-08,1,2800,Bombeo,Alta,100,Simulado
+TR-002,2024-08-16,2,3815,Despostillamiento,Media,95.0,Simulado
+TR-003,2026-05-12,3,3142,Bombeo,Media,77.3,Simulado
+TR-004,2026-02-08,4,3316,Despostillamiento,Media,78.1,Simulado
+TR-005,2024-10-21,5,3495,Grietas longitudinales,Media,69.1,Simulado
+TR-006,2026-04-14,6,3799,Escalonamiento,Media,59.0,Simulado
+TR-007,2024-12-22,7,4163,Grietas de esquina,Alta,49.0,Simulado
+TR-008,2026-02-02,8,2253,Escalonamiento,Baja,47.6,Simulado
+TR-009,2024-10-26,9,1328,Losa dividida,Baja,31.6,Simulado
+TR-010,2025-10-22,10,3033,Escalonamiento,Media,32.4,Simulado
+TR-011,2025-01-07,1,2038,Losa dividida,Baja,100,Simulado
+TR-012,2025-08-22,2,2421,Losa dividida,Alta,92.2,Simulado
+TR-013,2026-06-06,3,2608,Losa dividida,Media,75.0,Simulado
+TR-014,2025-06-21,4,1209,Bombeo,Media,79.1,Simulado
+TR-015,2025-06-14,5,3447,Grietas longitudinales,Media,72.1,Simulado
+TR-016,2026-02-23,6,678,Bombeo,Baja,56.4,Simulado
+TR-017,2024-04-15,7,3088,Despostillamiento,Media,48.1,Simulado
+TR-018,2024-05-25,8,2124,Grietas transversales,Alta,33.0,Simulado
+TR-019,2025-11-21,9,2072,Escalonamiento,Alta,40.6,Simulado
+TR-020,2025-07-12,10,1178,Despostillamiento,Media,32.4,Simulado
+TR-021,2025-10-24,1,2205,Escalonamiento,Media,100,Simulado
+TR-022,2025-02-15,2,1923,Grietas transversales,Baja,90.9,Simulado
+TR-023,2025-11-02,3,3762,Despostillamiento,Alta,82.8,Simulado
+TR-024,2026-04-02,4,2291,Losa dividida,Baja,76.3,Simulado
+TR-025,2025-04-22,5,2244,Bombeo,Alta,69.4,Simulado
+TR-026,2026-04-07,6,1928,Despostillamiento,Media,66.3,Simulado
+TR-027,2025-04-13,7,3905,Bombeo,Baja,55.0,Simulado
+TR-028,2025-12-06,8,3084,Bombeo,Alta,43.9,Simulado
+TR-029,2024-07-06,9,4111,Losa dividida,Alta,34.4,Simulado
+TR-030,2025-05-05,10,4000,Grietas longitudinales,Media,38.3,Simulado
+TR-031,2024-07-18,1,3211,Bombeo,Media,100,Simulado
+TR-032,2025-04-05,2,3903,Grietas longitudinales,Baja,88.3,Simulado
+TR-033,2026-05-06,3,490,Despostillamiento,Alta,77.0,Simulado
+TR-034,2024-09-10,4,644,Despostillamiento,Baja,76.9,Simulado
+TR-035,2026-02-14,5,2752,Grietas de esquina,Baja,63.2,Simulado
+TR-036,2024-11-16,6,2872,Despostillamiento,Media,57.9,Simulado
+TR-037,2025-12-07,7,3101,Grietas transversales,Media,59.9,Simulado
+TR-038,2025-04-29,8,2558,Grietas transversales,Alta,38.6,Simulado
+TR-039,2024-03-27,9,1861,Escalonamiento,Baja,39.2,Simulado
+TR-040,2024-05-18,10,3358,Bombeo,Alta,22.8,Simulado
+TR-041,2026-04-07,1,758,Despostillamiento,Alta,97.2,Simulado
+TR-042,2025-01-20,2,207,Grietas longitudinales,Media,95.8,Simulado
+TR-043,2025-10-23,3,1597,Bombeo,Alta,91.5,Simulado
+TR-044,2024-01-27,4,2240,Losa dividida,Baja,79.2,Simulado
+TR-045,2024-05-04,5,2188,Losa dividida,Media,65.5,Simulado
+TR-046,2026-04-04,6,849,Grietas transversales,Media,63.2,Simulado
+TR-047,2025-04-14,7,2600,Grietas transversales,Media,52.9,Simulado
+TR-048,2024-03-12,8,2391,Losa dividida,Baja,49.7,Simulado
+TR-049,2025-10-25,9,2381,Bombeo,Baja,33.1,Simulado
+TR-050,2026-06-07,10,3241,Escalonamiento,Baja,24.5,Simulado
+TR-051,2024-05-12,1,2794,Despostillamiento,Baja,96.5,Simulado
+TR-052,2025-06-13,2,3814,Grietas transversales,Baja,81.1,Simulado
+TR-053,2025-03-11,3,2333,Losa dividida,Alta,85.8,Simulado
+TR-054,2025-01-27,4,1398,Grietas transversales,Baja,70.9,Simulado
+TR-055,2026-03-09,5,3488,Losa dividida,Baja,66.5,Simulado
+TR-056,2024-06-30,6,1484,Despostillamiento,Media,64.8,Simulado
+TR-057,2026-03-26,7,1271,Bombeo,Baja,57.5,Simulado
+TR-058,2024-08-07,8,1097,Grietas longitudinales,Alta,49.1,Simulado
+TR-059,2025-02-21,9,2382,Bombeo,Alta,40.2,Simulado
+TR-060,2026-05-16,10,2895,Grietas transversales,Alta,22.0,Simulado
